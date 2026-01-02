@@ -1,6 +1,6 @@
 # KholifaNetwork Apps Collection 📱
 
-Welcome to the official app store repository of KholifaNetwork. Download our latest Android utilities and tools for free.
+Welcome to the official app store repository of Kholifa Network. Download our latest Android utilities and tools for free.
 
 ---
 
