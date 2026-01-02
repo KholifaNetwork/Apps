@@ -1,0 +1,37 @@
+{
+  "TrnsGo": {
+    "INFO": "---------- TrnsGo - Universal Translator ----------",
+    "version_code": 5,
+    "version_name": "5.0",
+    "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/TrnsGo/TrnsGo.apk",
+    "notes_en": "Optimized performance and bug fixes.",
+    "notes_ru": "Улучшение производительности и исправление ошибок."
+  },
+
+  "CalcPro": {
+    "INFO": "---------- Calc Pro - All in One Calculator ----------",
+    "version_code": 40,
+    "version_name": "40.0",
+    "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/CalcPro/CalcPro.apk",
+    "notes_en": "Fixed calculation bugs and added new themes.",
+    "notes_ru": "Исправлены ошибки в расчетах и добавлены новые темы."
+  },
+
+  "ProxyPass": {
+    "INFO": "---------- Proxy Pass - Secure Proxy ----------",
+    "version_code": 42,
+    "version_name": "42.0",
+    "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/ProxyPass/ProxyPass.apk",
+    "notes_en": "New servers added for faster connection.",
+    "notes_ru": "Добавлены новые серверы для быстрого соединения."
+  },
+
+  "Flashlight": {
+    "INFO": "---------- Flashlight - Bright LED Tool ----------",
+    "version_code": 35,
+    "version_name": "35.0",
+    "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/Flashlight/Flashlight.apk",
+    "notes_en": "Initial Release.",
+    "notes_ru": "Первый выпуск."
+  }
+}
