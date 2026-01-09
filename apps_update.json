@@ -1,8 +1,8 @@
 {
   "SystemX": {
     "INFO": "---------- SystemX - System Xplorer ----------",
-    "version_code": 2,
-    "version_name": "2.0",
+    "version_code": 1,
+    "version_name": "1.0",
     "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/SystemX/SystemX.apk",
     "notes_en": "Important performance improvements and bug fixes.",
     "notes_ar": "تحسينات هامة في الأداء وإصلاح الأخطاء.",
