@@ -1,10 +1,10 @@
 {
 
     "CalcPro": {
-    "INFO": "---------- Calc Pro - All in One Calculator ----------",
+    "INFO": "---------- Calc Pro: All in One Calculator ----------",
     "version_code": 40,
     "version_name": "40.0",
-    "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/CalcPro/CalcPro.apk",
+    "update_url": "https://appupps.com/apps/calculator",
     "notes_en": "Important performance improvements and bug fixes.",
     "notes_ar": "تحسينات هامة في الأداء وإصلاح الأخطاء.",
     "notes_bn": "গুরুত্বপূর্ণ পারফরম্যান্স উন্নতি এবং বাগ ফিক্স করা হয়েছে।",
@@ -24,7 +24,7 @@
   },
   
   "SystemX": {
-    "INFO": "---------- SystemX - System Xplorer ----------",
+    "INFO": "---------- SystemX: System Xplorer ----------",
     "version_code": 1,
     "version_name": "1.0",
     "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/SystemX/SystemX.apk",
@@ -47,7 +47,7 @@
   },
   
   "TrnsGo": {
-    "INFO": "---------- TrnsGo - Universal Translator ----------",
+    "INFO": "---------- TrnsGo: Universal Translator ----------",
     "version_code": 5,
     "version_name": "5.0",
     "update_url": "https://github.com/KholifaNetwork/Apps/releases/download/TrnsGo/TrnsGo.apk",
@@ -70,7 +70,7 @@
   },
 
   "ProxyPass": {
-    "INFO": "---------- Proxy Pass - Secure Proxy ----------",
+    "INFO": "---------- Proxy Pass: Secure Proxy ----------",
     "version_code": 42,
     "version_name": "42.0",
     "update_url": "https://appupps.com/apps/proxypass",
