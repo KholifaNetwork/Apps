@@ -1,5 +1,28 @@
 {
 
+    "CompassPro": {
+    "INFO": "---------- Compass Pro: Digital Navigator ----------",
+    "version_code": 47,
+    "version_name": "47.0",
+    "update_url": "https://appupps.com/apps/compasspro",
+    "notes_en": "Important performance improvements and bug fixes.",
+    "notes_ar": "تحسينات هامة في الأداء وإصلاح الأخطاء.",
+    "notes_bn": "গুরুত্বপূর্ণ পারফরম্যান্স উন্নতি এবং বাগ ফিক্স করা হয়েছে।",
+    "notes_de": "Wichtige Leistungsverbesserungen und Fehlerbehebungen.",
+    "notes_es": "Importantes mejoras de rendimiento y corrección de errores.",
+    "notes_fa": "بهبودهای مهم عملکرد و رفع اشکال.",
+    "notes_fr": "Améliorations importantes des performances et corrections de bugs.",
+    "notes_hi": "महत्वपूर्ण प्रदर्शन सुधार और बग फिक्स।",
+    "notes_it": "Importanti miglioramenti delle prestazioni e correzioni di bug.",
+    "notes_ko": "중요한 성능 개선 및 버그 수정.",
+    "notes_ru": "Улучшение производительности и исправление ошибок.",
+    "notes_tk": "Möhüm öndürijilik gowulandyrmalary we näsazlyklary düzeltmek.",
+    "notes_tr": "Önemli performans iyileştirmeleri ve hata düzeltmeleri.",
+    "notes_ur": "کارکردگی میں اہم بہتری اور بگ فکسز۔",
+    "notes_zh_cn": "重要的性能改进和错误修复。",
+    "notes_zh_tw": "重要的性能改進和錯誤修復。"
+  },
+    
     "CalcPro": {
     "INFO": "---------- Calc Pro: All in One Calculator ----------",
     "version_code": 40,
