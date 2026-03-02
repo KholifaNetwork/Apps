@@ -94,9 +94,9 @@
 
   "ProxyPass": {
     "INFO": "---------- Proxy Pass: Secure Proxy ----------",
-    "version_code": 42,
-    "version_name": "42.0",
-    "force_update": false,
+    "version_code": 55,
+    "version_name": "55.0",
+    "force_update": true,
     "update_url": "https://appupps.com/apps/proxypass",
     "notes_en": "Important performance improvements and bug fixes.",
     "notes_ar": "تحسينات هامة في الأداء وإصلاح الأخطاء.",
