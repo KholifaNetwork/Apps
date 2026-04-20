@@ -14,29 +14,29 @@ Smart calculator for daily and scientific use with File Locker.
 Accurate standard digital compass for navigation.
 📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/Compass/Compass.apk)**
 
-### 3. Compass Light 🔦🧭
-Unique tool with Compass, Flashlight, and Qibla direction.
-📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/CompassLight/CompassLight.apk)**
-
-### 4. Compass Lite 🧭
+### 3. Compass Go 🧭
 Lightweight compass version for older devices.
-📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/CompassLite/CompassLite.apk)**
+📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/CompassGo/CompassGo.apk)**
 
-### 5. Compass Pro 🧭
+### 4. Compass Pro 🧭
 Professional compass with GPS and altitude features.
 📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/CompassPro/CompassPro.apk)**
 
-### 6. Device Info 📱
+### 5. Device Info 📱
 View detailed hardware and software information of your phone.
 📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/DeviceInfo/DeviceInfo.apk)**
 
-### 7. Edu Results - Bangladeshi EDU Board Result 🎓
+### 6. Edu Results - Bangladeshi EDU Board Result 🎓
 Check educational results quickly and easily.
 📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/EduResult/EduResult.apk)**
 
-### 8. Flashlight 🔦
+### 7. Flashlight 🔦
 Brightest LED flashlight with strobe modes.
 📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/Flashlight/Flashlight.apk)**
+
+### 8. FlashQ 🔦🧭
+Unique tool with Compass, Flashlight, and Qibla direction.
+📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/FlashQ/FlashQ.apk)**
 
 ### 9. mPlayer - Islamic Music Player 🎵
 Powerful music and video player with equalizer.
