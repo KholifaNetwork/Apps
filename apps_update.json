@@ -3,7 +3,7 @@
     "INFO": "---------- Calc Pro: All in One Calculator ----------",
     "version_code": 40,
     "version_name": "40.0",
-    "force_update": true,
+    "force_update": false,
     "update_url": "https://appupps.com/apps/calculator",
     "notes_en": "Important performance improvements and bug fixes.",
     "notes_ar": "تحسينات هامة في الأداء وإصلاح الأخطاء.",
