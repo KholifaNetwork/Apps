@@ -6,6 +6,7 @@
     "force_update": false,
     "play_force_update": false,
     "huawei_force_update": false,
+    "rustore_force_update": false,
     "update_url": "https://appupps.com/apps/calculator",
     "notes_en": "Important performance improvements and bug fixes.",
     "notes_ar": "تحسينات هامة في الأداء وإصلاح الأخطاء.",
