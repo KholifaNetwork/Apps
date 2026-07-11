@@ -72,7 +72,11 @@ Professional screen recorder app. (Under Construction)
 Pro version of device information tool with advanced metrics.
 📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/SystemX/SystemX.apk)**
 
-### 17. TrnsGo - Translator 🗣️
+### 17.  TermioX: SSH & SFTP Client 📟
+SSH, Mosh, Telnet, FTP & SFTP Manager.
+📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/TermioX/TermioX.apk)**
+
+### 18. TrnsGo - Translator 🗣️
 Instant language translator for text, voice Camera.
 📥 **[Download APK](https://github.com/KholifaNetwork/Apps/releases/download/TrnsGo/TrnsGo.apk)**
 
