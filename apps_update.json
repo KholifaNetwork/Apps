@@ -10,7 +10,7 @@
     "huawei_force_update": true,
     "oneplus_force_update": false,
     "palm_force_update": false,
-    "rustore_force_update": false,
+    "rustore_force_update": true,
     "samsung_force_update": false,
     "xiaomi_force_update": false,
     "update_url": "https://appupps.com/apps/calculator",
