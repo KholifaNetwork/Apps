@@ -7,7 +7,7 @@
     "play_force_update": false,
     "amazon_force_update": false,
     "honor_force_update": false,
-    "huawei_force_update": true,
+    "huawei_force_update": false,
     "oneplus_force_update": false,
     "palm_force_update": false,
     "rustore_force_update": true,
