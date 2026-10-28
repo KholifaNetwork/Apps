@@ -6,6 +6,7 @@
     "force_update": false,
     "play_force_update": false,
     "amazon_force_update": false,
+    "cafebazaar_force_update": false,
     "honor_force_update": false,
     "huawei_force_update": false,
     "oneplus_force_update": false,
