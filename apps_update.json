@@ -198,8 +198,8 @@
   },
   "ProxyPass": {
     "INFO": "---------- Proxy Pass: Fast & Secure Proxy ----------",
-    "version_code": 56,
-    "version_name": "56.0",
+    "version_code": 57,
+    "version_name": "57.0",
     "force_update": true,
     "play_force_update": true,
     "amazon_force_update": false,
