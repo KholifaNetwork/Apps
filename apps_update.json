@@ -203,6 +203,7 @@
     "force_update": true,
     "play_force_update": true,
     "amazon_force_update": true,
+    "cafebazaar_force_update": false,
     "honor_force_update": true,
     "huawei_force_update": true,
     "oneplus_force_update": true,
